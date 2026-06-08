@@ -84,12 +84,13 @@ Když uživatel chce zapsat nové pravidlo / kontext / dokument:
 1. Urči **typ** (pravidlo · kontext · dokument) a **rozsah** (globální vs. kategorie).
 2. Zapiš do správného souboru podle `knowledge/_schema.md` (pravidla mají ID, osu, závažnost).
 3. Dokumenty (soubory) ulož do `knowledge/dokumenty/` a přidej řádek do jeho `README.md` (název → k čemu slouží).
-4. **Sdílej ostatním** — pushni:
+4. **Automaticky nasdílej ostatním — VŽDY a HNED, bez ptaní.** Jakmile zapíšeš jakoukoli změnu do `knowledge/`, **okamžitě** ji pushni (nečekej na pokyn, nehromaď změny lokálně):
 ```bash
 bash ~/.claude/skills/ozdobdort/tools/sync.sh push "knowledge: <co jsi přidal/změnil>"
 ```
-   Push může udělat **kdokoli s přístupem k repu** (přispěvatel) — databáze se updatuje od všech uživatelů, ne jen od jednoho správce. Od příštího `pull` podle ní kontrolují všichni.
-5. Potvrď uživateli, co se zapsalo a že je to nasdílené.
+   Pushovat může **každý přispěvatel** (ne jen správce) — databáze se updatuje od všech. Od příštího `pull` podle ní kontrolují všichni.
+   - Když push **neprojde** (chybí přístup / přihlášení ke GitHubu), **řekni to natvrdo** a naviguj k nápravě (přijmout pozvánku collaboratora + jednorázové `gh auth login`). **Nikdy netvrď, že je nasdíleno, když není.**
+5. Potvrď uživateli, co se zapsalo a zda to je nasdílené na GitHub.
 
 > ⚠ **Veřejný repo** — do knowledge **nikdy** nedávej citlivá klientská data (ceny, smlouvy, osobní údaje, neveřejné interní info). Jen kontrolní pravidla, kontext a veřejně sdílitelné podklady.
 
@@ -99,4 +100,5 @@ bash ~/.claude/skills/ozdobdort/tools/sync.sh push "knowledge: <co jsi přidal/z
 - **Nikdy si nedomýšlej fakta** — neověřené tvrzení = ⛔, ne propuštění.
 - **Knowledge je zdroj pravdy** — kontroluj podle souborů, ne z hlavy.
 - **Audit = git historie** — každá změna knowledge je commit (kdo/co/kdy).
+- **Synchronizace je automatická a povinná** — `pull` na startu (KROK 0) a `push` **ihned po každé změně** knowledge. GitHub má vždy nejnovější verzi; nově příchozí (i poslaná offline kopie) si ji při prvním `pull` dotáhnou sami. Nikdy nenech změnu viset jen lokálně.
 - Když pravidlo chybí a bránilo by kontrole, **navrhni ho** uživateli k zapsání (Režim B), místo abys improvizoval.
