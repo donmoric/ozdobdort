@@ -39,7 +39,7 @@ Pokud sync selže (offline / není remote), **pokračuj s lokální verzí** a u
 
 ### 1. Načti vstup a urči kategorii
 - Vstup = článek/materiál (vložený text nebo soubor).
-- Urči **doménovou kategorii**: makronky / zákusky / dezertní stůl. Když neurčíš, **zeptej se**, nedomýšlej.
+- Urči **doménovou kategorii**: makronky / zákusky / dezertní stůl / dorty / choux (odpalované). Přehled všech kategorií a dokumentů = `knowledge/README.md` (rozcestník). Když neurčíš, **zeptej se**, nedomýšlej.
 - **Průřezové kategorie kontroluj VŽDY** (bez ohledu na doménu): `alergeny-znaceni`, `bezpecnost-skladovani` a `dietni-upravy` (je-li obsah vegan/bezlepkový). Článek o makronkách obsahuje alergeny (mandle) i bezpečnost (syrové bílky).
 
 ### 2. Načti relevantní knowledge
