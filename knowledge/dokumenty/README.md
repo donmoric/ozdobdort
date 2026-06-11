@@ -13,5 +13,7 @@ Podklady, ze kterých AI bere fakta (zdroje pravdy, glosáře). Pro každý doku
 | `foceni-styling.md` | Checklist vizuálu/focení dezertů (světlo, kompozice, konzistence). Pro měkká pravidla `FOTO-*`. |
 | `sezonni-kalendar.md` | CZ sezóna ovoce (jahody V–IX atd.). Pro `SEZ-S-001` / `DST-F-003`. |
 | `trendy-2026.md` | **Datovaný** přehled trendů 2025/26 + odlišení evergreen vs momentka. Pro `U-002`. |
+| `glosar-terminu.md` | **Glosář** cukrářských termínů (FR + CZ) + sjednocení názvosloví. Pro `S-001`, `DOR-S-001` — kontrola jednotnosti termínů. |
+| `_research-makronky.md` · `_research-zakusky.md` · `_research-dorty.md` | **Audit-trail zdrojů** (URL + důvěryhodnost) k faktům v příslušných kategoriích — plní princip F-001 (fakta mají oporu ve zdroji). |
 
-> Tip: research podklady (plné citace zdrojů per kategorie) lze doplnit jako `_research-<kategorie>.md`.
+> Tip: další research podklady lze doplnit jako `_research-<kategorie>.md`.
