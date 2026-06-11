@@ -14,11 +14,11 @@ Každé pravidlo jako odrážka v tomto tvaru:
 - **závažnost** — `blokující` (⛔ musí být splněno) | `varování` (⚠ doporučení)
 - **pravidlo** — co musí platit, měřitelně, ne vágně. ✅ „800–1200 slov" ❌ „přiměřená délka".
 
-**Příklad:**
+**Příklad** (ilustrační ID řady `-9xx`, ať nekolidují s reálnými pravidly):
 ```
-- **FM-001** `formát` · `blokující` — Článek má 800–1200 slov.
-- **U-002** `úplnost` · `blokující` — Povinné sekce: úvod, postup, tipy, závěr.
-- **MAK-F-001** `fakta` · `varování` — Teploty pečení uvádět ve °C i s heat/horkovzduch _(proč: garanti to plette)_.
+- **FM-901** `formát` · `blokující` — Článek má 800–1200 slov.
+- **U-902** `úplnost` · `blokující` — Povinné sekce: úvod, postup, tipy, závěr.
+- **MAK-F-901** `fakta` · `varování` — Teploty pečení uvádět ve °C i s horkovzduchem _(proč: garanti to pletou)_.
 ```
 
 ## Kontext (do `kontext.md` nebo `kategorie/<x>.md`)
