@@ -10,7 +10,7 @@
 - **Pečení:** nízká teplota, raději níž; rozpětí **~135–150 °C**, čas **~10–30 min** dle trouby. Horkovzduch suší/peče rychleji (CZ recepty ~140–150 °C/10–15 min); statická trouba (King Arthur) ~135 °C/25–30 min. Ventilátor může naklonit měkké skořápky. Přesnou teplotu **nutno odladit dle konkrétní trouby**.
 - **Oschnutí skořápek před pečením** [SPORNÉ]: většinový postup = nechat oschnout do nelepivého povrchu (~30–60 min, ve vlhku až 90–120 min) → slupka → nožička. Menšina (BraveTart) tvrdí, že není nutné. Tedy silné doporučení, ne dogma.
 - **Zrání hotových makronek (maturation):** konsensus **24–48 h v lednici** po naplnění — vlhkost z náplně zvláční skořápku, chutě se propojí; „druhý den nejlepší".
-- **Náplň:** ganache/ganáž (smetana + čokoláda), máslový krém, lekvar/džem.
+- **Náplň:** ganache/ganáž (smetana + čokoláda; poměry viz `dorty.md` **DOR-F-001** — bílá/mléčná víc čokolády než hořká), máslový krém, lekvar/džem.
 
 ## Časté vady (příčiny)
 - **Duté:** špatný sníh; nevhodné macaronage; nedopečeno; nebo příliš dlouhé oschnutí.

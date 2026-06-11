@@ -10,7 +10,7 @@
 | **Crème mousseline** | pâtissière + **máslo** (pevná, drží tvar) | ≠ diplomate (ta má šlehačku) |
 | **Crème diplomate** | pâtissière + **želatina** + **šlehačka** (lehká) | ≠ mousseline; ≠ bavaroise (jiná báze) |
 | **Crème bavaroise** | **anglaise** + želatina + šlehačka | báze anglaise, ne pâtissière |
-| **Ganache** | čokoláda + tekutina (emulze tuků) | ≠ crémeux |
+| **Ganache** | čokoláda + tekutina (emulze tuků); poměr dle účelu — **bílá a mléčná potřebují VÍC čokolády než hořká** (viz `DOR-F-001`) | ≠ crémeux; ⚠ „bílá = míň čokolády" je **častá chyba** (opak pravdy) |
 | **Ganache montée** | ganache s víc smetanou, odležet → **vyšlehat** | šlehat až vychlazenou, ne za tepla |
 | **Crémeux** | (obvykle) **anglaise + čokoláda → žloutky**, hustý, drží tvar | ≠ ganache (crémeux má žloutky, bohatší) |
 | **Namelaka** | mléko+čokoláda+**želatina**+smetana, **bez vajec**, hedvábná | ≠ crémeux (namelaka bez žloutků); špatně se mrazí |
